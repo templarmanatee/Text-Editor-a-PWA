@@ -6,6 +6,10 @@ This project is a full stack MERN application that allows the user to store pers
 
 - [Dylan Freeman](https://www.github.com/templarmanatee)
 
+## Deployment
+
+https://dylans-text-editor.herokuapp.com/
+
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
